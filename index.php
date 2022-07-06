@@ -12,18 +12,12 @@ require_once('header.php');
 
         <section>
 
-            <div class="left">
-
-                <h2>To do list<h2>
-
-                    <p>C'est le plus beau cadeau de l'univers!</p>
+        <h3>
+        To do list
+  <small class="text-muted">C'est le plus beau cadeau de l'univers!</small>
+</h3>
                     <a href="certificate.php">Commander</a>
 
-            </div>
-
-            <div class="right">
-                <a href="certificate.php"><img id="star-certificate" src="./public/img/certificat4.png" alt="certificat"></a>
-            </div>
 
         </section>
 
